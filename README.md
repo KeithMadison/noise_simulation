@@ -1,1 +1,3 @@
 A comprehensive simulation of the thermal noise background observed in UHE radio-frequency neutrino detectors. Includes a parallelized "inverse" Monte Carlo radiation transport code (allowing for the modeling of birefringent and highly anisotropic media), a precise model of the Johnson-Nyquist contribution (including quantum effects), and a Markov Chain model of the simple multiplicity and phased array triggers. 
+
+**The complete parallelized Monte Carlo radiation transport code relies heavily on details of the specific hardware on which it was intended to be run, and a decoupled version has not yet been uploaded.**
